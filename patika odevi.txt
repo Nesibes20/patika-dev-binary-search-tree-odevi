@@ -1,0 +1,11 @@
+[7,5,1,8,3,6,0,9,4,2]-> Binary Search Tree Aşamaları
+
+Root olarak 6 yı seçelim.6 nın sağında büyük ve solunda küçük ele
+manlar olucak. 
+
+SAĞ KISIM = 7,8,9
+SOL KISIM = 0,1,2,3,4,5
+
+Eğer 10 rakamını eklemek istersem 6 yı referans olarak aldığım
+sağ bölüme eklemem gerekir, çünkü 10 sayısı 6 sayısından büyüktür
+O nedenle sağ kısma ekliyorum.
